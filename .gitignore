@@ -1,0 +1,65 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+*.log
+*.sqlite3
+*.db
+*.env
+.env
+venv/
+ENV/
+.env.*
+# VSCode
+.vscode/
+# Firebase
+firebase-service-account-key.json
+push_back/test-push-bab74-firebase-adminsdk-fbsvc-62903dc22e.json
+# Django
+*.sqlite3
+*.log
+# OS
+.DS_Store
+Thumbs.db
+# Django
+*.log
+*.pot
+*.pyc
+__pycache__/
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+media/
+
+# Firebase
+firebase-service-account-key.json
+
+# Virtual Environment
+venv/
+env/
+.venv/
+.env/
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Environment variables
+.env
+
+# Static files
+staticfiles/
+static/
+
+# Django migrations (optional - remove if you want to track them)
+# */migrations/*.py
+# !*/migrations/__init__.py
